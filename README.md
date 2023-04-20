@@ -17,6 +17,8 @@
 - Cut trace to main and solder USB to center to enable USB power during programming.
 - Ensure to remove USB side and replace main for normal use
 
+### 5v Buck Converter
+![image](https://user-images.githubusercontent.com/97303986/233372301-b49ece21-e5c7-4770-9f9d-a921e56cfa48.png)
 
 
 ## Issues V1.0
