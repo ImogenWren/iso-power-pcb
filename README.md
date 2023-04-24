@@ -39,7 +39,9 @@ _For future reference and reuse_
 
 ## Net Classes
 _Lots of attention was paid to Net Class definition and assignment for this project. It would be sensible to reuse these definitions and update if nessisary rather than start from scratch_
+
 ![image](https://user-images.githubusercontent.com/97303986/234025952-47013231-ef54-4bf2-926b-c18c8e58bd59.png)
+
 ![image](https://user-images.githubusercontent.com/97303986/234026151-1d6064d5-2849-49ab-87d3-ae31882a1986.png)
 
 #### Schematic
