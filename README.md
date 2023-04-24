@@ -37,6 +37,46 @@ _For future reference and reuse_
 ![image](https://user-images.githubusercontent.com/97303986/234019618-974cba4d-d7e9-4111-9740-9a07acf87d8b.png)
 
 
+## Net Classes
+_Lots of attention was paid to Net Class definition and assignment for this project. It would be sensible to reuse these definitions and update if nessisary rather than start from scratch_
+![image](https://user-images.githubusercontent.com/97303986/234025952-47013231-ef54-4bf2-926b-c18c8e58bd59.png)
+![image](https://user-images.githubusercontent.com/97303986/234026151-1d6064d5-2849-49ab-87d3-ae31882a1986.png)
+
+#### Schematic
+Default	0.1524 mm	0.3048 mm	rgba(0, 0, 0, 0.000)	Solid
+12V_BUS	0.1524 mm	0.3048 mm	rgb(214, 128, 31)	Solid
+24V_BUS	0.1524 mm	0.3048 mm	rgb(200, 31, 33)	Solid
+5V_BUS	0.1524 mm	0.3048 mm	rgb(193, 182, 20)	Solid
+ANALOG	0.1524 mm	0.3048 mm	rgb(255, 49, 178)	Solid
+CURRENT_SENSOR	0.1524 mm	0.3048 mm	rgb(80, 84, 255)	Solid
+DIGITAL	0.1524 mm	0.3048 mm	rgb(168, 72, 185)	Solid
+DIGITAL_GND	0.1524 mm	0.3048 mm	rgb(95, 91, 94)	Solid
+GND	0.1524 mm	0.3048 mm	rgb(108, 79, 1)	Solid
+MCU_5V_BUS	0.1524 mm	0.3048 mm	rgb(155, 222, 16)	Solid
+MID_PWR_BUS	0.1524 mm	0.3048 mm	rgb(255, 255, 32)	Solid
+PWR_GND	0.1524 mm	0.3048 mm	rgb(188, 29, 36)	Solid
+PWR_OUTPUT	0.1524 mm	0.3048 mm	rgb(176, 255, 20)	Solid
+USB_PBUS	0.1524 mm	0.3048 mm	rgb(52, 217, 159)	Solid
+
+#### PCB
+Default	0.2 mm	0.2 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+12V_BUS	0.1985 mm	6.5 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+24V_BUS	0.2 mm	4 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+5V_BUS	0.2 mm	4.5 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+ANALOG	0.2 mm	0.2 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+CURRENT_SENSOR	0.2 mm	7 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+DIGITAL	0.2 mm	0.2 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+DIGITAL_GND	0.2 mm	0.3 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+GND	0.2 mm	1.5 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+MCU_5V_BUS	0.2 mm	0.3 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+MID_PWR_BUS	0.2 mm	3 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+PWR_GND	0.1985 mm	7 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+PWR_OUTPUT	0.2 mm	2 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+USB_PBUS	0.2 mm	0.3 mm	0.8 mm	0.4 mm	0.3 mm	0.1 mm	0.2 mm	0.25 mm	
+
+
+
+
 ## Issues V1.0
 
 1. Tx & Rx Pin swapped on CH340 - aTmeGA328P
